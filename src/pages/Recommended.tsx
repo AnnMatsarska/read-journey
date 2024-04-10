@@ -1,5 +1,7 @@
 import React from "react";
 
-export const Recommended = () => {
+const Recommended = () => {
   return <div>Recommended</div>;
 };
+
+export default Recommended;

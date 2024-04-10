@@ -1,5 +1,7 @@
 import React from "react";
 
-export const Library = () => {
+const Library = () => {
   return <div>Library</div>;
 };
+
+export default Library;

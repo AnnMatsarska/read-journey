@@ -1,5 +1,7 @@
 import React from "react";
 
-export const Reading = () => {
+const Reading = () => {
   return <div>Reading</div>;
 };
+
+export default Reading;
