@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkread_journey=self.webpackChunkread_journey||[]).push([[448],{448:(e,r,s)=>{s.r(r),s.d(r,{default:()=>a});s(43);var u=s(579);const a=()=>(0,u.jsx)("div",{children:"Register"})}}]);
+//# sourceMappingURL=448.4a773980.chunk.js.map

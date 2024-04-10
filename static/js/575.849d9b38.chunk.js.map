@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/575.849d9b38.chunk.js","mappings":"2JAEA,MAIA,EAJgBA,KACPC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,W","sources":["pages/Reading.tsx"],"sourcesContent":["import React from \"react\";\n\nconst Reading = () => {\n  return <div>Reading</div>;\n};\n\nexport default Reading;\n"],"names":["Reading","_jsx","children"],"sourceRoot":""}

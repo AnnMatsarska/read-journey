@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/read-journey/static/css/main.f855e6bc.css",
-    "main.js": "/read-journey/static/js/main.d8b68206.js",
+    "main.css": "/read-journey/static/css/main.e4cd2b04.css",
+    "main.js": "/read-journey/static/js/main.adddb1db.js",
+    "static/js/220.45b3372a.chunk.js": "/read-journey/static/js/220.45b3372a.chunk.js",
+    "static/js/448.4a773980.chunk.js": "/read-journey/static/js/448.4a773980.chunk.js",
+    "static/js/350.c460fa4e.chunk.js": "/read-journey/static/js/350.c460fa4e.chunk.js",
+    "static/js/38.1267a5c6.chunk.js": "/read-journey/static/js/38.1267a5c6.chunk.js",
+    "static/js/575.849d9b38.chunk.js": "/read-journey/static/js/575.849d9b38.chunk.js",
     "static/js/453.6d9d353b.chunk.js": "/read-journey/static/js/453.6d9d353b.chunk.js",
-    "static/media/logo.svg": "/read-journey/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Gilroy-Regular.ttf": "/read-journey/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
+    "static/media/Gilroy-Medium.ttf": "/read-journey/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/read-journey/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
+    "static/media/Gilroy-Bold.ttf": "/read-journey/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
     "index.html": "/read-journey/index.html",
-    "main.f855e6bc.css.map": "/read-journey/static/css/main.f855e6bc.css.map",
-    "main.d8b68206.js.map": "/read-journey/static/js/main.d8b68206.js.map",
+    "main.e4cd2b04.css.map": "/read-journey/static/css/main.e4cd2b04.css.map",
+    "main.adddb1db.js.map": "/read-journey/static/js/main.adddb1db.js.map",
+    "220.45b3372a.chunk.js.map": "/read-journey/static/js/220.45b3372a.chunk.js.map",
+    "448.4a773980.chunk.js.map": "/read-journey/static/js/448.4a773980.chunk.js.map",
+    "350.c460fa4e.chunk.js.map": "/read-journey/static/js/350.c460fa4e.chunk.js.map",
+    "38.1267a5c6.chunk.js.map": "/read-journey/static/js/38.1267a5c6.chunk.js.map",
+    "575.849d9b38.chunk.js.map": "/read-journey/static/js/575.849d9b38.chunk.js.map",
     "453.6d9d353b.chunk.js.map": "/read-journey/static/js/453.6d9d353b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.d8b68206.js"
+    "static/css/main.e4cd2b04.css",
+    "static/js/main.adddb1db.js"
   ]
 }
